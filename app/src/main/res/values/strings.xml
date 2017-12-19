@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="btn_kotlin">Check Kotlin</string>
+    <string name="kotlin_label">This is a good day to learn Kotlin</string>
+</resources>
