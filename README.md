@@ -1,1 +1,1 @@
-A simple Android app in Kotlin
+A simple 'Hello World' Android app in Kotlin
